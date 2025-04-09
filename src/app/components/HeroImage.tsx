@@ -1,7 +1,6 @@
 'use client';
 
 import React from 'react';
-import Image from 'next/image';
 
 const HeroImage = () => {
   return (
@@ -71,7 +70,7 @@ const HeroImage = () => {
           <div className="mt-6">
             <div className="text-lg font-bold mb-2">Building feed</div>
             <div className="bg-white p-3 rounded-lg shadow-sm">
-              <div className="text-sm text-gray-500 mb-3">What's on your mind?</div>
+              <div className="text-sm text-gray-500 mb-3">What&apos;s on your mind?</div>
               <div className="border-t pt-3">
                 <div className="flex mb-2">
                   <div className="w-8 h-8 bg-gray-200 rounded-full mr-2"></div>
