@@ -1,0 +1,154 @@
+Part 1: Landing Page Copy & Assets
+(Note: Copy provided in English and Greek. The language switcher should toggle between these versions. [App Name] needs replacement.)
+Assets Required:
+App Logo: High-quality SVG or PNG. (/logo.svg)
+Hero Mockup: High-resolution image showcasing the app's main dashboard (Admin or Tenant view, clean UI). (/hero-mockup.png)
+Feature Icons: Simple, clean SVG icons for:
+Automation/Calculation (/icon-automate.svg)
+Online Payment (/icon-payment.svg)
+Transparency/Clarity (/icon-transparency.svg)
+Communication/Feed (/icon-communication.svg)
+
+
+"How It Works" Step Graphics/Icons (Optional but Recommended): Simple visuals for each step. (/icon-step1.svg, /icon-step2.svg, etc.)
+Admin Feature Snippet: Small screenshot/mockup highlighting an Admin feature (e.g., expense input or allocation rules). (/admin-feature-snippet.png)
+Tenant Feature Snippet: Small screenshot/mockup highlighting a Tenant feature (e.g., payment breakdown or online pay button). (/tenant-feature-snippet.png)
+Final CTA Graphic (Optional): A subtle background graphic or abstract shape for the final section.
+
+Detailed Copy:
+(Header Area)
+Logo: [App Name Logo]
+Top Right Links:
+Language Switcher (e.g., Button/Dropdown: ΕΛ / EN)
+Log In (EN) / Σύνδεση (EL) (Link Style)
+
+
+(Hero Section - Section 1)
+Headline (EN): Stop Chasing Payments. Start Simplifying Κοινόχρηστα.
+Headline (EL): Σταματήστε το Κυνήγι Πληρωμών. Ξεκινήστε την Απλοποίηση των Κοινοχρήστων.
+Sub-headline (EN): The easiest way for Greek apartment buildings to manage shared expenses, track payments, and communicate clearly. All in one place with [App Name].
+Sub-headline (EL): Ο ευκολότερος τρόπος για πολυκατοικίες στην Ελλάδα να διαχειρίζονται τα κοινόχρηστα, να παρακολουθούν πληρωμές & να επικοινωνούν καθαρά. Όλα σε ένα μέρος με το [App Name].
+CTA Button (EN): Get Started Free
+CTA Button (EL): Ξεκινήστε Δωρεάν
+Visual: hero-mockup.png (Dominant on the right)
+(Features/Why Choose Us - Section 2 - Adapts dappr's "Start your business...")
+Title (EN): Why Building Managers & Tenants Choose [App Name]
+Title (EL): Γιατί οι Διαχειριστές & Ένοικοι Επιλέγουν το [App Name]
+Sub-title (EN): Save time, reduce errors, and improve transparency for everyone in the building.
+Sub-title (EL): Εξοικονομήστε χρόνο, μειώστε τα λάθη και βελτιώστε τη διαφάνεια για όλους στην πολυκατοικία.
+Feature Blocks (Left Side - Icon + Title + Text):
+Icon: icon-automate.svg
+Title (EN): Automate Calculations
+Title (EL): Αυτοματοποίηση Υπολογισμών
+Text (EN): Set allocation rules once (sq. footage, floor, etc.) and let [App Name] calculate tenant shares instantly.
+Text (EL): Ορίστε κανόνες κατανομής μία φορά (τ.μ., όροφος, κλπ) και αφήστε το [App Name] να υπολογίσει άμεσα το μερίδιο κάθε ενοίκου.
+
+
+Icon: icon-payment.svg
+Title (EN): Streamline Payments
+Title (EL): Απλοποίηση Πληρωμών
+Text (EN): Offer tenants secure online payment via Stripe, bank transfer info, or simple cash payment tracking.
+Text (EL): Προσφέρετε στους ενοίκους ασφαλή online πληρωμή μέσω Stripe, στοιχεία τραπεζικής μεταφοράς ή απλή παρακολούθηση πληρωμής μετρητών.
+
+
+Icon: icon-transparency.svg
+Title (EN): Enhance Transparency
+Title (EL): Ενίσχυση Διαφάνειας
+Text (EN): Give tenants clear breakdowns of every charge and access to their full payment history anytime.
+Text (EL): Δώστε στους ενοίκους σαφείς αναλύσεις κάθε χρέωσης και πρόσβαση στο πλήρες ιστορικό πληρωμών τους ανά πάσα στιγμή.
+
+
+Icon: icon-communication.svg (New compared to dappr, added value)
+Title (EN): Centralize Communication
+Title (EL): Συγκέντρωση Επικοινωνίας
+Text (EN): Use the integrated building feed for announcements, discussions, and keeping everyone informed.
+Text (EL): Χρησιμοποιήστε την ενσωματωμένη ροή κτιρίου για ανακοινώσεις, συζητήσεις και για να μένουν όλοι ενήμεροι.
+
+
+
+
+Visual (Right Side): Simple graphic illustrating workflow OR a clean screenshot of the "Sign Up" form / process. (Adapts dappr's Sign up form visual)
+(How It Works - Section 3 - Adapts dappr's "Migrate seamless...")
+Title (EN): Get Up and Running in Minutes
+Title (EL): Ξεκινήστε σε Λίγα Λεπτά
+Sub-title (EN): Managing shared expenses has never been easier. Here’s how:
+Sub-title (EL): Η διαχείριση κοινοχρήστων δεν ήταν ποτέ ευκολότερη. Δείτε πώς:
+Steps (Numbered list or visual cards using icon-stepX.svg):
+Setup Building (EN): Admin defines address, apartments, and invites tenants.
+Δημιουργία Κτιρίου (EL): Ο διαχειριστής ορίζει διεύθυνση, διαμερίσματα και προσκαλεί ενοίκους.
+Enter Expenses (EN): Admin inputs recurring or one-off costs & uploads receipts.
+Καταχώρηση Δαπανών (EL): Ο διαχειριστής εισάγει τακτικά ή έκτακτα έξοδα & ανεβάζει αποδείξεις.
+Issue & Notify (EN): System calculates shares, admin issues charges, tenants get notified.
+Έκδοση & Ειδοποίηση (EL): Το σύστημα υπολογίζει μερίδια, ο διαχειριστής εκδίδει χρεώσεις, οι ένοικοι ειδοποιούνται.
+Pay & Track (EN): Tenants pay easily online or mark cash/bank payment. Admin tracks all statuses.
+Πληρωμή & Παρακολούθηση (EL): Οι ένοικοι πληρώνουν εύκολα online ή δηλώνουν πληρωμή μετρητών/τραπέζης. Ο διαχειριστής παρακολουθεί όλες τις καταστάσεις.
+
+
+(Features for Roles - Section 4 - Adapts dappr's Chart/Text section)
+Overall Title (Optional): Powerful Tools for Everyone
+(Left Column)
+Visual: admin-feature-snippet.png
+Title (EN): Built for Administrators
+Title (EL): Φτιαγμένο για Διαχειριστές
+Bullet Points (EN):
+Automated Calculations & Allocation Rules
+Real-time Payment Dashboard
+Expense Logging & Receipt Storage
+Automated Reminders for Late Payments
+Central Document Repository
+Building Feed Moderation
+
+
+Bullet Points (EL):
+Αυτόματοι Υπολογισμοί & Κανόνες Κατανομής
+Πίνακας Πληρωμών σε Πραγματικό Χρόνο
+Καταγραφή Εξόδων & Αποθήκευση Αποδείξεων
+Αυτόματες Υπενθυμίσεις για Καθυστερημένες Πληρωμές
+Κεντρικό Αποθετήριο Εγγράφων
+Διαχείριση Ροής Κτιρίου
+
+
+
+
+(Right Column)
+Visual: tenant-feature-snippet.png
+Title (EN): Designed for Tenants
+Title (EL): Σχεδιασμένο για Ενοίκους
+Bullet Points (EN):
+Clear Expense Breakdowns
+Secure Online Payments (Card/Bank/Cash)
+Easy Access to Payment History
+Instant Notifications for Charges & Payments
+Downloadable Receipts
+Building Feed Participation
+
+
+Bullet Points (EL):
+Σαφείς Αναλύσεις Εξόδων
+Ασφαλείς Online Πληρωμές (Κάρτα/Τράπεζα/Μετρητά)
+Εύκολη Πρόσβαση στο Ιστορικό Πληρωμών
+Άμεσες Ειδοποιήσεις για Χρεώσεις & Πληρωμές
+Δυνατότητα Λήψης Αποδείξεων
+Συμμετοχή στη Ροή Κτιρίου
+
+
+
+
+(Final CTA - Section 5 - Adapts dappr's Text/Form section)
+Title (EN): Ready to Simplify Your Building's Finances?
+Title (EL): Έτοιμοι να Απλοποιήσετε τα Οικονομικά της Πολυκατοικίας σας;
+Sub-title (EN): Join hundreds of buildings managing their κοινόχρηστα the smart way. Sign up free today!
+Sub-title (EL): Γίνετε μέλος εκατοντάδων πολυκατοικιών που διαχειρίζονται τα κοινόχρηστά τους με έξυπνο τρόπο. Εγγραφείτε δωρεάν σήμερα!
+CTA Button (EN): Sign Up Free Now
+CTA Button (EL): Δωρεάν Εγγραφή Τώρα
+Visual (Optional): Could have a subtle background graphic or just white space. (Adapts dappr's form visual area)
+(Footer)
+Logo: [App Name Logo]
+Links:
+Privacy Policy (EN) / Πολιτική Απορρήτου (EL)
+Terms of Service (EN) / Όροι Χρήσης (EL)
+Contact (EN) / Επικοινωνία (EL)
+
+
+Language Switcher: (Optional repeat, e.g., ΕΛ / EN text links)
+Copyright: © [Current Year] [App Name]. All rights reserved. / Με επιφύλαξη παντός δικαιώματος.

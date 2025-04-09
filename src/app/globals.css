@@ -3,6 +3,12 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --primary: #6366F1;
+  --primary-hover: #4F46E5;
+  --secondary: #EEF2FF;
+  --gray-light: #F9FAFB;
+  --gray: #F3F4F6;
+  --gray-dark: #6B7280;
 }
 
 @theme inline {
@@ -22,5 +28,21 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-3 px-6 rounded-full transition-colors;
+  }
+  
+  .btn-secondary {
+    @apply bg-white hover:bg-gray-100 text-indigo-600 font-medium py-3 px-6 rounded-full transition-colors border border-gray-200;
+  }
 }
