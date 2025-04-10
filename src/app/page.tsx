@@ -76,8 +76,10 @@ export default function Home() {
 
       <main>
         {/* Hero Section */}
-        <section className="bg-indigo-600 py-16 md:py-24">
-          <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+        <section className="relative bg-indigo-600 py-16 md:py-24">
+          {/* White background for bottom quarter */}
+          <div className="absolute bottom-0 left-0 right-0 h-1/4 bg-white"></div>
+          <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
             <div className="text-center max-w-4xl mx-auto mb-12">
               <h1 className="text-4xl md:text-5xl font-bold text-white leading-tight mb-6">
                 {t('headline')}
@@ -91,13 +93,13 @@ export default function Home() {
             </div>
             <div className="flex justify-center">
               <div className="relative max-w-5xl w-full">
-                <div className="bg-white p-6 rounded-lg shadow-2xl mx-auto overflow-hidden">
+                <div className="bg-white p-6 rounded-xl shadow-2xl mx-auto overflow-hidden">
                   <Image
                     src="/hero-mockup.png"
                     alt="OikosPay Dashboard"
                     width={800}
                     height={600}
-                    className="w-full h-auto rounded-md"
+                    className="w-full h-auto rounded-lg"
                     priority
                   />
                 </div>
@@ -391,7 +393,7 @@ export default function Home() {
                       <input type="email" id="email" className="w-full p-3 border border-gray-300 rounded-lg focus:ring-indigo-500 focus:border-indigo-500" placeholder="Your email" />
                     </div>
                     <button className="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-3 px-4 rounded-lg transition-colors">
-                      {t('finalCta.button')}
+                      Schedule a Demo
                     </button>
                   </div>
                 </div>
